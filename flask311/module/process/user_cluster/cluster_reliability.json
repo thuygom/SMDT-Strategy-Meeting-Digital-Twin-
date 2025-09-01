@@ -1,0 +1,9 @@
+{
+  "Aggressive": 0.62,
+  "Supportive": 0.88,
+  "Neutral Informative": 0.81,
+  "Sarcastic/Playful": 0.67,
+  "Analytical": 0.9,
+  "Spam/Promotional": 0.48,
+  "Empathetic": 0.85
+}
