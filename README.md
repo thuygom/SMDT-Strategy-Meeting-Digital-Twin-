@@ -56,7 +56,7 @@ distributions to guide early NAS exploration. This approach prioritizes meaningf
 
 ## MRO Overview
 
-<img width="919" height="279" alt="image" src="https://github.com/user-attachments/assets/e02fec1e-f1ec-4695-b7a8-d9a566968d60" />
+<img width="1656" height="564" alt="image" src="https://github.com/user-attachments/assets/348b6ab2-d047-42ad-86ec-586b8ca2b445" />
 
 **Figure 1. MRO Structure**
 
