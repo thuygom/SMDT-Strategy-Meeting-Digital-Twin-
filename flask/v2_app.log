@@ -1,0 +1,9 @@
+ * Serving Flask app 'v2_app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.44.190:5000
+[33mPress CTRL+C to quit[0m
+61.78.123.204 - - [01/Sep/2025 04:34:00] "GET /uploads/168_1756696842149_icon.png HTTP/1.1" 200 -
+61.78.123.204 - - [01/Sep/2025 04:34:01] "[36mGET /uploads/168_1756696842149_icon.png HTTP/1.1[0m" 304 -
