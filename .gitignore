@@ -1,0 +1,63 @@
+# ==========================================
+# Python / Flask Project Git Ignore Template
+# ==========================================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment (venv)
+venv/
+ENV/
+env/
+flask/bin/
+flask/lib/
+flask/include/
+pyvenv.cfg
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# Flask uploads (회의록, 이미지 등)
+flask/server/uploads/
+
+# Environment variables & secrets
+.env
+*.env
+.env.*
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
