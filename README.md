@@ -1,3 +1,6 @@
+<img width="1122" height="762" alt="SMDT" src="https://github.com/user-attachments/assets/c8a14e97-b161-4ff6-be43-94750dcaf857" />
+
+
 **_International Journal of Internet, Broadcasting and Communication Vol.17 No.3 144-154 (2025)_** [**_http://dx.doi.org/10.7236/IJIBC.2025.17.3.144_**](http://dx.doi.org/10.7236/IJIBC.2025.17.3.144)
 
 **IJIBC 25-3-17**
